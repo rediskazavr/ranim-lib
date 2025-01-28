@@ -19,8 +19,8 @@ int main(){
 gcc main.c ./ranim-lib/src/ranim.c -o name-program -lm
 ```
 ## 📝 To Do 
-[ ] - Add the ability to many arguments in the ranimln function
-[ ] - Add to a Debian-like system, you can install the library using the ```sudo apt-get``` command.
+* [ ] - Add the ability to many arguments in the ranimln function
+* [ ] - Add to a Debian-like system, you can install the library using the ```sudo apt-get``` command.
 
 
 
