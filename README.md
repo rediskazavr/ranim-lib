@@ -1,12 +1,17 @@
 # Rainbow Animation Library
-A C library that turns your text into rainbow-colored iridescent text!
+ranim-lib (Rainbow Animation Library) - a library for animating text into a rainbow in C 
 
-## Installation:
-[youtube]()
+## 📎Quick Start
+```
 
 ```
-cd "your project"
-git clone https://github.com/rediskazavr/ranim-lib
-#include "./ranim-lib/src/ranim.c" //Including a library in your file
 
-```
+## 📷Preview
+
+[YouTube]()
+
+
+
+## 📌Sources
+> This project appeared absolutely by accident. It is used in the [TUI-OS project](https://github.com/rediskazavr/TUI-OS), as a display of text using color animation
+
