@@ -2,6 +2,7 @@
 ranim-lib (Rainbow Animation Library) - a library for animating text into a rainbow in C 
 
 ## 📎Documentation
+> Works on Windows, Linux, it is possible to add it to c++ code due to the compatibility of c with c++
 
 * Code Example:
 ```
